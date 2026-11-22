@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorforest",
+  "repo": "NDesumeur/neodex-plugin-decor-forest",
+  "version": "1.0.0",
+  "sha256": "49edc41d8d7b516c068a3f93132ef5c4a6f86201161ef51822045da647195707",
+  "approvedAt": "2026-11-22T19:05:25.658Z",
+  "neobase": ">=4.1.0",
+  "signature": "rNt1GxvJnUaa145X9Dj3QrdgR2k9JRyKcVgr9CG1ZRAB1/wUAHRNMqIM6G1GdlTPTMO90wfaHbnn3LqhEYbcBA=="
+}
